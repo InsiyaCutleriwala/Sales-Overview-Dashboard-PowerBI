@@ -25,9 +25,9 @@ This project features a comprehensive **Sales Overview Dashboard** built using P
 
 ##  Files Included
 - `Sales Overview Data.csv` – Raw sales dataset used for building the dashboard.
-- `SalesOverviewDashboard.pbix` – Power BI dashboard file *(Add link after upload)*.
-- `images/sales-dashboard-preview.png` – Snapshot of the dashboard for quick preview.
-
+- `SalesOverviewDashboard.pbix` – Power BI dashboard file.
+- `images/dashboard.png` – Snapshot of the dashboard for quick preview.
+- `README.md` – Project description
 ---
 
 ##  Dashboard Preview
