@@ -32,7 +32,7 @@ This project features a comprehensive **Sales Overview Dashboard** built using P
 
 ##  Dashboard Preview
 
-![Sales Dashboard Preview](images/sales-dashboard-preview.png)
+![Sales Dashboard Preview](images/dashboard.png)
 
 ---
 
